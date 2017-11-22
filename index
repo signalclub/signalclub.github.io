@@ -1,0 +1,2554 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 15">
+<meta name="Originator" content="Microsoft Word 15">
+<link href="2017推理竞赛习题详解.files/filelist.xml" rel="File-List">
+<link href="2017推理竞赛习题详解.files/editdata.mso" rel="Edit-Time-Data">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>龚涵</o:Author>
+  <o:LastAuthor>龚涵</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>51</o:TotalTime>
+  <o:Created>2017-11-22T14:35:00Z</o:Created>
+  <o:LastSaved>2017-11-22T14:35:00Z</o:LastSaved>
+  <o:Pages>22</o:Pages>
+  <o:Words>2920</o:Words>
+  <o:Characters>16650</o:Characters>
+  <o:Lines>138</o:Lines>
+  <o:Paragraphs>39</o:Paragraphs>
+  <o:CharactersWithSpaces>19531</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link href="2017推理竞赛习题详解.files/themedata.thmx" rel="themeData">
+<link href="2017推理竞赛习题详解.files/colorschememapping.xml" rel="colorSchemeMapping">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="375">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536858881 -1073711037 9 0 511 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:等线;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:DengXian;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+@font-face
+	{font-family:"Microsoft YaHei UI";
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 684670032 22 0 262175 0;}
+@font-face
+	{font-family:幼圆;
+	panose-1:2 1 5 9 6 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:微软雅黑;
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 684670032 22 0 262175 0;}
+@font-face
+	{font-family:"\@等线";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:"\@Microsoft YaHei UI";
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 684670032 22 0 262175 0;}
+@font-face
+	{font-family:"\@幼圆";
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"\@微软雅黑";
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 684670032 22 0 262175 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"标题 1 字符";
+	mso-style-next:正文;
+	margin-top:17.0pt;
+	margin-right:0cm;
+	margin-bottom:16.5pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:240%;
+	mso-pagination:lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:22.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:22.0pt;
+	font-weight:bold;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"副标题 字符";
+	mso-style-next:正文;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:center;
+	line-height:130%;
+	mso-pagination:none;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:14.0pt;
+	font-weight:bold;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:21.0pt;
+	mso-char-indent-count:2.0;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+span.1
+	{mso-style-name:"标题 1 字符";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"标题 1";
+	mso-ansi-font-size:22.0pt;
+	mso-bidi-font-size:22.0pt;
+	mso-font-kerning:22.0pt;
+	font-weight:bold;}
+span.a
+	{mso-style-name:"副标题 字符";
+	mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:副标题;
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	mso-font-kerning:14.0pt;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:等线;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:179704786;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-864122778 -2087142300 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l1
+	{mso-list-id:321079543;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1118279402 -776158616 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l2
+	{mso-list-id:1159154428;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1961533700 -909990356 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l2:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l2:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l2:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l2:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l2:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l2:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l2:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l3
+	{mso-list-id:1579485756;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1008674378 -1812451356 -1412147486 -1790555036 612106802 -1658664442 -677483536 2001007970 1092761754 -634331576;}
+@list l3:level1
+	{mso-level-start-at:2;
+	mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level2
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level3
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level4
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level5
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level6
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level7
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level8
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3:level9
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4
+	{mso-list-id:1678342621;
+	mso-list-type:hybrid;
+	mso-list-template-ids:404278186 910204170 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l4:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l4:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l4:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l4:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l4:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l4:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l4:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l4:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l4:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l5
+	{mso-list-id:1855067708;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1033238528 779537128 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l5:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l5:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l5:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l5:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l5:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l5:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l5:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l5:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l5:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:等线;
+	mso-ascii-font-family:等线;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:等线;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:等线;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang="ZH-CN" style="tab-interval:21.0pt;text-justify-trim:punctuation">
+
+<div class="WordSection1" style="layout-grid:15.6pt">
+
+<p class="MsoSubtitle">初赛第一天</p>
+
+<p class="MsoNormal"><span lang="EN-US">1.</span></p>
+
+<p class="MsoNormal">第一篇侦探推理小说是爱伦坡的哪篇小说</p>
+
+<p class="MsoNormal" style="text-indent:18.0pt"><span lang="EN-US">A.<span style="mso-spacerun:yes">&nbsp; </span></span>《毛格街血案》 （莫格街谋杀案）</p>
+
+<ol type="A" style="margin-top:0cm" start="2">
+ <li class="MsoNormal" style="mso-list:l3 level1 lfo1;tab-stops:list 36.0pt">《梅岑格施泰因》</li>
+ <li class="MsoNormal" style="mso-list:l3 level1 lfo1;tab-stops:list 36.0pt">《东方快车谋杀案》</li>
+ <li class="MsoNormal" style="mso-list:l3 level1 lfo1;tab-stops:list 36.0pt">《包公案》</li>
+</ol>
+
+<p class="MsoNormal">答：<span lang="EN-US">A</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">2.</span></p>
+
+<p class="MsoNormal">有一个奇怪的数字，去掉第一个数字，是<span lang="EN-US">13</span>，去掉最后一个数字是<span lang="EN-US">40</span>。</p>
+
+<p class="MsoNormal">请问：这个奇怪的数字是什么？</p>
+
+<p class="MsoNormal">【提示：读出来】</p>
+
+<p class="MsoNormal">答：四十三</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">3.</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>有一个牢房，有<span lang="EN-US">3</span>个犯人关在其中。因为玻璃很厚，所以<span lang="EN-US">3</span>个人只能互相看见，不能听到 对方说话的声音。”
+有一天，国王想了一个办法，给他们每个人头上都戴了一顶帽子，只叫他们知道帽 子的颜色不是白的就是黑的，不叫他们知道自己所戴帽子的是什么颜色的。在这种情况 下，国王宣布两条如下：<span lang="EN-US">1</span>．谁能看到其他两个犯人戴的都是白帽子，就可以释放谁；<span lang="EN-US">2</span>．谁知道自己戴的是黑帽子，就释放谁。其实，国王给他们戴的都是黑帽子。他们因为被绑，看不见自己罢了。于是他们<span lang="EN-US">3</span>个人互相盯着不说话。可是不久，心眼灵的<span lang="EN-US">A</span>用推理的方法，认定自己戴的是黑帽子。您想
+，他是怎样推断的<span lang="EN-US">?<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
+
+<p class="MsoNormal">答：如果<span lang="EN-US">A</span>头上的帽子是白色，那么<span lang="EN-US">B</span>看到的是将是一黑<span class="GramE">一</span>白，而<span lang="EN-US">C</span>并没有看到<span lang="EN-US">2</span>个白色帽子，所以<span lang="EN-US">B</span>可知自己是黑色，但<span lang="EN-US">B</span>没有被释放，所以<span lang="EN-US">B</span>看到也是<span lang="EN-US">2</span>个黑帽子。即<span lang="EN-US">A</span>是黑色</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">4.</span></p>
+
+<p class="MsoNormal">一般失踪超过几年就被确认是死亡了（）</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>五年<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B.</span>六年</p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>七年<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.</span>八年</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">5.</span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1036" type="#_x0000_t75" style='width:195.75pt;
+ height:123.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image001.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="261" height="165" src="2017推理竞赛习题详解.files/image002.jpg" v:shapes="_x0000_i1036"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A </span><span class="GramE">去异存</span>同</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">6.</span></p>
+
+<p class="MsoNormal">被海蛇咬到的时候，什么可以中和毒素（）</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>酒精<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span style="mso-tab-count:3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.</span>红药水</p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>红茶<span lang="EN-US"><span style="mso-tab-count:4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.</span>碘酒</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">7.</span></p>
+
+<p class="MsoNormal">对于一个成年人来说，血液如果流失超过多少，人就会死亡？（）</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.20% <span style="mso-tab-count:4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.30%</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">C. 40% <span style="mso-tab-count:4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.50%</span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">8.</span></p>
+
+<p class="MsoNormal">风是从那边吹过来的？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>南边</p>
+
+<p class="MsoNormal"><span lang="EN-US">B.</span>北边</p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="_x0000_i1035" type="#_x0000_t75" style='width:132pt;height:152.25pt;
+ visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image003.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="176" height="203" src="2017推理竞赛习题详解.files/image004.jpg" v:shapes="_x0000_i1035"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A </span>南边。因为树都是南面长的旺盛，而画面上树都是左边叶子多，右边叶子少，而无论是火焰还是小旗都是向着右边飘得，说明风是从左向右刮，就是从南向北刮</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">9.</span></p>
+
+<p class="MsoNormal">重庆府人胡生利，在外做生意很久没有回来。四月的一天，他的妻子一个人在家，晚上被盗贼所杀。那天晚 <span class="GramE">上下着</span>小雨，人们在泥里拾到了一把扇子，上面的题词是王名赠给李前的。王名不知道是谁，但李前，人们都认识，平时言行举止很不庄重，于是乡里的人都认定是他杀的人。
+拘捕到公堂上，严刑拷打之下，他也承认了。案子已经定了，一天，县令的夫人笑着对他说：＂这个案子判错了。＂于是，说出了一番话<span lang="EN-US">……</span>县令听后果然心服口服，
+以此去找罪犯，果然得到了事情的真相。</p>
+
+<p class="MsoNormal">夫人说了什么？</p>
+
+<p class="MsoNormal">答：妻子被杀是四月，夜里下雨，天气一定还显微寒，不需要扇子， 哪里有在杀人的时候，还带着这个东西的呢？明显是为了嫁祸于人。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">10.</span></p>
+
+<p class="MsoNormal">谁是作案者<span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="_x0000_i1034" type="#_x0000_t75" style='width:96pt;height:75.75pt;
+ visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image005.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="128" height="101" src="2017推理竞赛习题详解.files/image006.jpg" v:shapes="_x0000_i1034"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C</span>从脚印看，左脚印磨损明显厉害些，所以，作案者应该是一名经常扛重物的左撇子，做配资往往将手表戴在右手手腕上。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">11.</span></p>
+
+<p class="MsoNormal">人周围气体中<span class="GramE">含超过</span>多少含量的二氧化碳，吸入后会剧烈痉挛，几秒钟便会咬舌而死且身体冰凉？<span lang="EN-US">()</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">A.5% <span style="mso-tab-count:4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.20%</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">C.30% <span style="mso-tab-count:4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.40%</span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">D</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">12.</span></p>
+
+<p class="MsoNormal">食物中毒时，可以用以下哪种物品磨碎冲水灌服暂时缓解毒性？（）</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>红豆 <span lang="EN-US"><span style="mso-tab-count:5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.</span>绿豆</p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>黑豆 <span lang="EN-US"><span style="mso-tab-count:5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.</span>黄豆</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">B</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">13.</span></p>
+
+<p class="MsoNormal">酒仙范大，醉酒后常常称自己杀过人。这天，范大又多喝了酒。喝醉后对酒友说：＂昨天我把一个有钱的商人推到了深沟里，得了很多钱。＂酒友信以为真，就把范大告到了官府。这时正好有一妇人来告状，说有人把她丈夫杀死扔到了深沟里，丈夫外出做生意赚的钱也都被人抢了。
+县令随妇人去验尸，尸体衣衫褴褛，没有头颅。于是县令说：＂你一人孤苦伶仃的怎么生活呢？<span class="GramE">一</span>找到尸体的头颅，定案之后，你就可以再嫁了。＂第二天，与妇人同村的李三来报告说他找到了尸体的头颅。这时，县令忽然指着妇人和李三说：＂你们两个就是罪犯，还敢诬陷范大？＂两人不服，待县令把证据摆出来之后，二人不得不承认勾结一起，谋害该妇人亲夫的事实。请问：县令的证据是什么？</p>
+
+<p class="MsoNormal">答：尸体在深沟里，怎么能确信是自己的丈夫呢？必定是先知道丈夫死在这儿了。而且衣服破烂，怎么能有那么多的钱呢？头颅在哪儿，李三为何如此熟悉？又这么着急地来报呢？必定是想与妇人早日成亲。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">14.</span></p>
+
+<p class="MsoNormal">福尔摩斯摔落悬崖而死的那篇小说叫什么名字</p>
+
+<p class="MsoNormal">答：《最后一案》</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">15.</span></p>
+
+<p class="MsoNormal">预审员在审问犯罪嫌疑人时，发现他是一个聋哑人，便对他进行书面盘问。书面盘问结束后，预审员沉思了一会儿，对这个聋哑人说了一句话，便发现聋哑人是作案者。预审员说了一句什么话使罪犯露出了马脚？</p>
+
+<p class="MsoNormal">答：你可以回去了</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">16.</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">50</span>名运动员按顺序排成一排，教练下令：“单数运动员出列！”剩下的运动员重新排列编号，教练又下令：“单数运动员出列！”如此下去，最后只剩下一个人，他是几号运动员？如果教练喊：“双数运动员出列。”最后剩下的又是谁？</p>
+
+<p class="MsoNormal">答：教练下令“单数”运动员出列时，教练只要下<span lang="EN-US">5</span>次命令，就能知道剩下的那个人。此人在下第五次令之前排序为<span lang="EN-US">2</span>，在下<span lang="EN-US">4</span>次令之前排序为<span lang="EN-US">4</span>，在下<span lang="EN-US">3</span>次令之前排序为<span lang="EN-US">8</span>，在下<span lang="EN-US">2</span>次令之前排序为<span lang="EN-US">16</span>，在下<span lang="EN-US">1</span>次令之前排序为<span lang="EN-US">32</span>，即<span lang="EN-US">32</span>位运动员。而后者，双数运动员出列时，我们可以得出剩下的是<span lang="EN-US">1</span>号运动员。因此：前者<span lang="EN-US">32</span>号，后者<span lang="EN-US">1</span>号。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">17.</span></p>
+
+<p class="MsoNormal">被称为“世界侦探小说之父”的人物是谁？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span><span class="GramE">江户川乱步</span> <span lang="EN-US"><span style="mso-tab-count:2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.</span>夏洛克
+</p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>柯南<span lang="EN-US">·</span>道尔 <span lang="EN-US"><span style="mso-tab-count:2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.</span>约瑟芬<span lang="EN-US">·</span>铁伊</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">18.</span></p>
+
+<p class="MsoNormal">口唇及面颊樱桃红色，中了什么毒？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>亚甲蓝，<span class="GramE">酚</span>，萨罗 </p>
+
+<p class="MsoNormal"><span lang="EN-US">B.</span>安非他明，巴比妥类，柯卡因，甲醇 </p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>山道年，洋地黄 </p>
+
+<p class="MsoNormal"><span lang="EN-US">D.</span>一氧化碳，氰化物等</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">D</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">19.</span></p>
+
+<p class="MsoNormal">一个病人在医院的病床上被人用水果刀刺死。凶器在医院的花园里找到，刀柄上没有发现指纹，但刀柄上爬着许多蚂蚁。行凶时医院尚未开门，所以凶手很可能是住院病人。经过调查，有三个病人嫌疑最大：五号病房的肠结核病人；七号病房的糖尿病人；九号病房的肾炎病人。你知道凶手是哪一个吗？</p>
+
+<p class="MsoNormal">答：糖尿病人。蚂蚁喜欢吃糖，所以凶器上应该有糖，而糖尿病人的汗液含有糖分。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">20.</span></p>
+
+<p class="MsoNormal">公安局接到密电，最近将有一伙毒贩在该市进行交易，并会先和一个本地负责人在火车站接头，密电还提供了一张毒贩照片。警方对火车站进行了布控。照片上的毒贩子一出现，便衣便围了上去，但该男子突然走向车站广播处，要求女广播员为其广播找人。警方为了抓获那个本地负责人，没有抓捕该毒贩，但那个负责人一直没有和毒贩接头。其实毒贩已经和那个负责人接上了头，那么负责人是谁呢？</p>
+
+<p class="MsoNormal">答：女广播员</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">21.</span></p>
+
+<p class="MsoNormal">某公寓内发现一具尸体，房间里写字台上的一盏没有启动器的简易日光灯还亮着。但奇怪的是，写字台上放着的一只手电筒也亮着。<span lang="EN-US">“</span>昨天夜里这座公寓停电大约<span lang="EN-US">30</span>分钟。所以，被害人一定在是停电期间用手电筒时被害的。<span lang="EN-US">”</span>管理员这样说。<span lang="EN-US">“</span>不，被害事件发生在来电之后。凶手特意将手电筒打开，伪装成停电时作案，然后逃走的。<span lang="EN-US">”</span>刑警看了一眼现场就<span class="GramE">作出</span>了判断。那么，证据何在？</p>
+
+<p class="MsoNormal">答：简易日光灯没有启动器，如果是停电时作的案，来电后不会自己亮。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">22.</span></p>
+
+<p class="MsoNormal">在一个公园的空地中央，公安人员一大早发现了一个仰面朝天躺着的男人。人已经死了，他的左胸上插着一把没有护手的日本刀。以尸体为中心半径<span lang="EN-US">25</span>米范围内，只留有被害人皮鞋的鞋印，找不到凶手的足迹。刀鞘也找不到，被害人不可能拿着一把明晃晃的没有刀鞘的日本刀来公园里自杀，凶手更不可能用<span lang="EN-US">25</span>米长的木棒绑在刀<span class="GramE">栓</span>上行刺。那么，这个男人究竟是怎么死的呢？</p>
+
+<p class="MsoNormal">答：凶手将日本刀当作箭，在<span lang="EN-US">25</span>米以外拉弓射杀公园内的男子。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">23.</span></p>
+
+<p class="MsoNormal">侦探波尔开车行驶在小路上，一个叫尤因的人挡住他，请波尔载<span class="GramE">他去霍恩</span>家。车子行驶到霍恩家门口，尤因说：<span lang="EN-US">“</span>请你等我两分钟，我和霍恩说几句话。<span lang="EN-US">”</span>尤因从四级台阶旁跃上门廊，按响门铃，却没人来开门。他跑回来大叫：<span lang="EN-US">“</span>波尔先生，霍恩倒在小树丛后面！<span lang="EN-US">”</span>波尔下车后看到台阶上油漆没干，马上指出尤因与此案有关。波尔是如何看出破绽的？</p>
+
+<p class="MsoNormal">答：尤因走进院子的时候不走台阶，却从台阶上跳过，这表明他到过现场，知道台阶是刚刚油漆过的。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">24.</span></p>
+
+<p class="MsoNormal">一名男子伏尸荒山的沙堆中，警方发现尸身有很多淤伤，相信是同人打斗致死的；而且尸身仍然温暖，相信是死去不久。警方捉住了三名嫌疑犯，他们都是临时演员，刚才在现场附近拍过戏。三个人打扮分别为悍妇、和尚、侠士，他们的身上都有淤伤，但皆称是拍戏时撞伤的。警方还发现这三名疑犯在半小时内洗<span class="GramE">过澡及换</span>过衣服，所以身上没留下沙尘。警方找出其中一人的嫌疑最大，您知道是谁吗？</p>
+
+<p class="MsoNormal">答：疑犯与死者在沙堆打斗后，必先要洗净头发上的泥尘，而悍妇及侠士都有头发，他们很难在半小时内完成洗澡、洗头、吹头、穿衣服等程序，所以三名疑犯中，就以饰演和尚的临时演员嫌疑最大。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">25.</span></p>
+
+<p class="MsoNormal">仔细的观察一下<span lang="EN-US">1</span>、<span lang="EN-US">2</span>、<span lang="EN-US">3</span>、<span lang="EN-US">4</span>、<span lang="EN-US">5</span>、<span lang="EN-US">6</span>、<span lang="EN-US">7</span>这七个数，如果不改变顺序，也不能重复，想一想用几个加号把这些数连起来，可使它们的和等于<span lang="EN-US">100</span>？</p>
+
+<p class="MsoNormal">答：添加四个加号可以把这些数连起来，而且使他们的和等于<span lang="EN-US">100</span>。即<span lang="EN-US">1</span>＋<span lang="EN-US">2</span>＋<span lang="EN-US">34</span>＋<span lang="EN-US">56</span>＋<span lang="EN-US">7</span>＝<span lang="EN-US">100</span>。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">26.</span></p>
+
+<p class="MsoNormal">一天晚上<span lang="EN-US">10</span>时，在<span lang="EN-US">312</span>国道上，一位骑自行车者被撞死，肇事者逃逸。另一位骑车人看清肇事车是辆小汽车，但没看清车牌号，他立即报警。交警向肇事车逃逸方向追赶，可追了近<span lang="EN-US">15</span>公里，也未发现肇事车。这<span lang="EN-US">15</span>公里内既无岔路，又无可掩藏之处，肇事车难道插翅飞了？</p>
+
+<p class="MsoNormal">答：肇事车司机在行驶一小段后，将车子调头行驶，前来追赶的交警因思维惯性只注意同方向前面有无肇事车，忽视了反方向的汽车，造成了疏漏。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">27.</span></p>
+
+<p class="MsoNormal">甲、乙、丙三个人在一起做作业，有一道数学<span class="GramE">题比较</span>难，当他们三个人都把自己的解法说出来以后，甲说：“我做错了。”乙说：“甲<span class="GramE">做对</span>了。”丙说：“我做错了。”在一旁的<span class="GramE">丁看到</span>他们的答案并听了她们的意见后说：“你们三个人中有一个人<span class="GramE">做对</span>了，有一个人说对了。”请问，他们三人中到底谁<span class="GramE">做</span>对了？</p>
+
+<p class="MsoNormal">答：假设丙<span class="GramE">做对</span>了，那么甲、乙都做错了，这样，甲说的是正确的，乙、丙都说错了，符合条件，因此，丙<span class="GramE">做</span>对了。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">28.</span></p>
+
+<p class="MsoNormal">小丽买了一双漂亮的鞋子，她的同学都没有见过这双鞋了，于是大家就猜，小红说：“你买的鞋不会是红色的。”小彩说：“你买的鞋子不是黄的就是黑的。”小玲说：“你买的鞋子一定是黑色的。”这三个人的看法至少有一种是正确的，至少有一种是错误的。请问，小丽的鞋子到底是什么颜色的？。</p>
+
+<p class="MsoNormal">答：假设小丽的鞋子是黑色的，那么三种看法都是正确的，不符合题意；假设是黄色的，前两种看法是正确的，第三种看法是错误的；假设是红色的，那么三句话都是错误的。因此，小丽的裙子是黄色的。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">29.</span></p>
+
+<p class="MsoNormal">某国间谍回到已经两年没人住的家中。他走进暗室，那里有他的间谍装备。暗室四处都是灰，看来的确没有人来过。他把桌上的灰抹掉，接通了电炉电源准备烧水喝。他突然使劲用鼻子嗅了嗅，说：“不好！这暗室曾有人来过，而且就在近日。”他是怎么断定暗室曾有人来过呢？</p>
+
+<p class="MsoNormal">答：间谍接通电源以后，发现空气中并没有烧焦的尘土味，这个电炉显然有人用过了。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">30.</span></p>
+
+<p class="MsoNormal">一个在运动中骨折的患者康复出院了，家里庆祝的时候，患者的哥哥说今天的可乐味道有点怪，患者的父亲和母亲喝了后纷纷表示可乐味道不对，但患者喝后坚称味道正常。患者在当天晚上洗澡时身亡，为什么？</p>
+
+<p class="MsoNormal">答：他在医院接受治疗时因为错用药物而丧失了部分嗅觉和味觉，所以没能尝出可乐中的异常味道，洗澡时也没有闻到热水器中煤气泄漏的气味。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoSubtitle">初赛第二天</p>
+
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;&#10;mso-char-indent-count:0;mso-list:l4 level1 lfo5"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:等线;mso-fareast-theme-font:minor-latin;&#10;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]-->标注有“九二年”和“九三年”的面值一分的硬币，那一枚的重量更重？</p>
+
+<p class="MsoNormal">答：笔画越多越重，<span lang="EN-US">93</span>比<span lang="EN-US">92</span>多一撇，因此<span lang="EN-US">93</span>更重。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">2. </span>《名侦探柯南》中柯南<span class="GramE">的声优是</span>？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span><span class="GramE">青山刚昌</span><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B.</span><span class="GramE">花泽香菜</span> </p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span><span class="GramE">高山南</span><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.</span><span class="GramE">高木涉</span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">3.</span>口唇及面颊樱桃红色，中了什么毒？</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US">A.</span>亚甲蓝，<span class="GramE">酚</span>，萨罗<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span></span></p>
+
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US">B.</span>安非他明，巴比妥类，柯卡因，甲醇<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span></span></p>
+
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US">C.</span>山道年，洋地黄<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></p>
+
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US">D.</span>一氧化碳，氰化物等</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">D</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">4.</span><span lang="EN-US" style='font-size:&#10;32.0pt;font-family:"Microsoft YaHei UI",sans-serif;mso-bidi-font-family:"Times New Roman";&#10;mso-bidi-theme-font:major-bidi;color:black;mso-themecolor:text1;mso-font-kerning:&#10;12.0pt'> </span>一位母亲拿着<span lang="EN-US">3</span>颗糖，<span lang="EN-US">1</span>颗硬糖，<span lang="EN-US">2</span>颗软糖。她让兄弟俩一人拿走一颗，自己也留着一颗，兄弟俩谁猜对了对方的糖，就可以获得这些糖。兄弟俩拿到糖以后，先是沉默了一会儿，接着弟弟说：“我知道了！</p>
+
+<p class="MsoNormal"><span lang="EN-US">Q</span>：弟弟和哥哥拿的分别是什么糖？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A</span>、硬糖 软糖<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B</span>、软糖 软糖<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C</span>、软糖 硬糖</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">B</span>如果有拿到硬糖的话就不用沉默了</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">5.</span><span lang="EN-US" style="font-size:&#10;24.0pt;font-family:幼圆;mso-hansi-font-family:宋体;color:black;mso-themecolor:text1;&#10;mso-font-kerning:12.0pt"> </span>把下面的六个小图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：<span lang="EN-US">( )</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><br>
+A.</span>①②④，③⑤⑥<span lang="EN-US">&nbsp;<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B.</span>①③④，②⑤⑥<span lang="EN-US"><br>
+C.</span>①③⑤，②④⑥<span lang="EN-US">&nbsp;<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.</span>①④⑤，②③⑥</p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="图片_x0020_30" o:spid="_x0000_i1033" type="#_x0000_t75" alt="d354b6096b63f624c10a60258e44ebf81a4ca308"
+ style='width:376.5pt;height:63.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image007.jpg" o:title="d354b6096b63f624c10a60258e44ebf81a4ca308"/>
+</v:shape><![endif]--><!--[if !vml]--><img width="502" height="85" alt="d354b6096b63f624c10a60258e44ebf81a4ca308" src="2017推理竞赛习题详解.files/image008.jpg" v:shapes="图片_x0020_30"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C </span>解析：每个图形都有<span lang="EN-US">1</span>条对称轴，且都含有线条阴影，观察发现图形<span lang="EN-US">①③⑤</span>中对称轴与阴影的方向相同，图形<span lang="EN-US">②④⑥</span>中对称轴与阴影方向相互垂直，由此选择<span lang="EN-US">C</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">6.</span><span lang="EN-US" style='font-size:&#10;36.0pt;font-family:"Microsoft YaHei UI",sans-serif;mso-bidi-font-family:"Times New Roman";&#10;mso-bidi-theme-font:major-bidi;color:black;mso-themecolor:text1;mso-font-kerning:&#10;12.0pt'> </span>《白夜行》中<span class="GramE">桐原亮司真正</span>爱谁？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>雪穗<span lang="EN-US">&nbsp;<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B.</span>川美子<span lang="EN-US">&nbsp;</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>雅秋<span lang="EN-US">&nbsp;&nbsp;<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.</span>东川平雪</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">7.</span><span lang="EN-US" style='font-size:&#10;32.0pt;font-family:"Microsoft YaHei UI",sans-serif;mso-bidi-font-family:"Times New Roman";&#10;mso-bidi-theme-font:major-bidi;color:black;mso-themecolor:text1;mso-font-kerning:&#10;12.0pt'> </span>几个探险者在<span class="GramE">一</span>西方古</p>
+
+<p class="MsoNormal">墓里发现一宝箱，墙壁</p>
+
+<p class="MsoNormal">上则有一行文字，解开</p>
+
+<p class="MsoNormal">便是密码。</p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="图片_x0020_3" o:spid="_x0000_i1032" type="#_x0000_t75" alt="图片1" style='width:119.25pt;
+ height:95.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image009.png" o:title="图片1"/>
+</v:shape><![endif]--><!--[if !vml]--><img width="159" height="127" alt="图片1" src="2017推理竞赛习题详解.files/image010.png" v:shapes="图片_x0020_3"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">one six five two <span style="mso-spacerun:yes">&nbsp;&nbsp;</span></span>将上半部分移到下半部分</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">8. </span>《嫌疑人<span lang="EN-US">X</span>的献身》的作者是谁？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span><span class="GramE">江户川柯南</span> </p>
+
+<p class="MsoNormal"><span lang="EN-US">B.</span>东野<span class="GramE">圭</span>吾<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>乙一<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">D.</span>西泽保<span class="GramE">彦</span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">B</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">9.</span><b><span lang="EN-US" style="font-size:20.0pt;font-family:幼圆;mso-hansi-font-family:宋体;color:black;&#10;mso-themecolor:text1;mso-font-kerning:12.0pt"> </span></b>某中学的女教师小于上午没到学校上课，学校的教务主任在下午到小于的住所去探望。<span lang="EN-US">&nbsp;<br>
+</span>　　当他到了小于的住所后发现，室内的灯是开着的，可是他按了几下门铃，却没人来开门。</p>
+
+<p class="MsoNormal">　　教导主任很奇怪，于是请管理员来开门，门开了，发现小于身着睡衣躺在地上，浑身是血，已经死去多时了。于是教导主任立即报警。</p>
+
+<p class="MsoNormal">　　警方来了以后，就展开了调查。发现死者是胸口被刺身亡。</p>
+
+<p class="MsoNormal">　　根据伤口推断，死者可能是昨晚９点左右遇害的。警方又调查了左邻右舍以及管理员，知道在昨晚９点左右，有两个男子来拜访过小于，一个是小于的男友，一个是一个学生的哥哥－－当地的流氓。这两个夜访者说，先后按了门铃，都不见回音，就离开了。</p>
+
+<p class="MsoNormal">　　教导主任详细的观察了周围，然后目光停在了门上的猫眼，于是他指出了凶手。你知道是谁吗？</p>
+
+<p align="left" class="MsoNormal" style="text-align:left;line-height:14.4pt;&#10;mso-pagination:widow-orphan;background:white">答：凶手是小于的男友。</p>
+
+<p align="left" class="MsoListParagraph" style="margin-left:18.0pt;text-align:left;&#10;text-indent:0cm;mso-char-indent-count:0;line-height:14.4pt;mso-pagination:widow-orphan;&#10;background:white">门上的猫眼表明，主人可以通过猫眼来分辨来访者。</p>
+
+<p class="MsoNormal">如果是学生的哥哥，那么小于会换上整齐的衣服来见客；但是，如果来访者是男友，小于则不在意穿着睡衣开门。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">10.</span><span lang="EN-US" style='font-size:40.0pt;font-family:"Microsoft YaHei UI",sans-serif;mso-bidi-font-family:&#10;"Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-themecolor:&#10;text1;mso-font-kerning:12.0pt'> </span>死后<span lang="EN-US">10</span>小时以内，尸温每小时下降<span lang="EN-US">_____.</span></p>
+
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US">A. 1</span>℃</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US">B. 2</span>℃</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US">C. 3</span>℃</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US">D. 4</span>℃</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">11. </span>清晨，海尔丁探长正在看骑手们跑马练习，突然马棚里冲出一个金发女郎，大叫着：“快来人哪！杀人啦！”
+海尔丁急忙奔了过去。只见马棚里一个<span class="GramE">训马</span>师打扮的人俯卧在干草堆上，后腰上有一大片血迹，一根锐利的冰锥就扎在他腰上。“死了大约有<span lang="EN-US">8</span>个小时了。”海尔丁自语道：“也就是说谋杀发生在半夜。”他转过身，看了一眼正捂着脸的那位金发女郎，说：“噢，对不起，你袖子上沾的是血迹吗？”<span lang="EN-US">&nbsp;<br>
+</span>那位金发女郎把她那骑装的袖口转过来，只见上面是一长道血印。“咦，”她脸色煞白，“一定是刚才在他身上<span class="GramE">噌</span>到的。我叫盖尔。德伏尔，他，他是彼特。墨菲。他为我<span class="GramE">训</span>马。”</p>
+
+<p class="MsoNormal">　　海尔丁问道：“你知道有谁可能杀他吗？”<span lang="EN-US">&nbsp;</span>“不<span lang="EN-US">,</span>”她答道，“除了<span lang="EN-US">......</span>也许是鲍勃。福特，彼特欠了他一大笔钱<span lang="EN-US">......</span>”第二天，警官告诉海尔丁说：“彼特欠福特确切的数字是<span lang="EN-US">15000</span>美元。可是经营鱼行的福特发誓说，他已有两天<span class="GramE">没见过彼特</span>了。另外，盖尔小姐袖口上的血迹经化验是死者的。</p>
+
+<p class="MsoNormal">　　“我想你一定下手了吧？”海尔丁问。<span lang="EN-US">&nbsp;<br>
+</span>　　“罪犯已经在押。”警官答道。</p>
+
+<p class="MsoNormal">　　谁是罪犯呢？</p>
+
+<p align="left" class="MsoNormal" style="text-align:left;line-height:14.4pt;&#10;mso-pagination:widow-orphan;background:white">答：罪犯是金发女郎。</p>
+
+<p class="MsoNormal">她自称血迹是“刚才在他身上蹭到的”，实际上那时彼特已死了<span lang="EN-US">8</span>个小时。他的血已结成冰，不可能会蹭到她袖子上去</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">12.</span><b><span lang="EN-US" style="font-size:20.0pt;font-family:幼圆;mso-hansi-font-family:宋体;color:black;&#10;mso-themecolor:text1;mso-font-kerning:12.0pt"> </span></b>托<span class="GramE">特母兹学校</span>里有四个调皮鬼，他们的爸爸是好朋友，一日他们四个又惹了祸，在历史课上课前，他们故意叫全班同学跟着一起大声朗读英文文章，历史老师一进教室门，他们就跟老师说走错了，结果害得老师来回跑了好几趟，愤怒的老师把他们四个的家长一起叫到了办公室。</p>
+
+<p class="MsoNormal">老师问：“你们谁是谁的家长？”</p>
+
+<p class="MsoNormal">四个爸爸相视一笑，四个孩子看到后心领神会，说出了下图的几句话</p>
+
+<p class="MsoNormal">“要疯啊你们这是！真是有其不靠谱的爸爸父必有其更不靠谱的娃娃！”老师被气的火冒三丈，心脏病<span class="GramE">都快犯了</span>。</p>
+
+<p class="MsoNormal">那么请根据图中的提示，帮助老师找到孩子们的爸爸吧<span lang="EN-US">o</span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="图片_x0020_10" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:210pt;
+ height:180.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image011.jpg" o:title="455151797427025671"/>
+</v:shape><![endif]--><!--[if !vml]--><img width="280" height="241" src="2017推理竞赛习题详解.files/image012.jpg" v:shapes="图片_x0020_10"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：图中的爸爸自左至右分别为：马克、戈登、史蒂夫、詹姆士</p>
+
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:&#10;0">小孩<span lang="EN-US">1</span>，罗宾，是詹姆士的女儿；</p>
+
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:&#10;0">小孩<span lang="EN-US">2</span>，吉米，是戈登的女儿；</p>
+
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:&#10;0">小孩<span lang="EN-US">3</span>，阿什利，是马克的儿子；</p>
+
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:&#10;0">小孩<span lang="EN-US">4</span>，布莱尔，是史蒂夫的儿子。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">13. </span>北宋天圣年间，四川仁寿县的江知县上任不久，就受理一桩田地诉讼案。</p>
+
+<p class="MsoNormal">原告张某是个<span class="GramE">专管征收</span>赋税的小吏，告他的邻居汪某<span class="GramE">无端赖占他</span>家良田<span lang="EN-US">20</span>亩。</p>
+
+<p class="MsoNormal">汪某申辩：＂并无此事，这<span lang="EN-US">20</span>亩地是我祖父留下来的。去年张某来我家收税，说如把田产划归他名下，可以不交赋税，不服徭役。我正为交不出赋税犯愁，就答应了。
+当时我们商定在字据上写着将我的田产过拨给他， 但实际上田产还是属于我的。＂</p>
+
+<p class="MsoNormal">张某说：＂<span lang="EN-US">10</span>年前，汪家遇有急事，主动提出把<span lang="EN-US">20</span>亩地卖给我，有字据为证。＂</p>
+
+<p class="MsoNormal">知县接过字据，仔细审阅。这张叠起来的字据是用白宣纸写的，纸已发黄，纸的边缘也磨损了不少，像是年代很久了。 知县将字据叠起又展开，展开又叠起。</p>
+
+<p class="MsoNormal">突然，眼睛一亮，把惊堂木一拍，喝道：＂大胆刁民，竟敢伪造字据，诓骗本县，还不从实招来！＂</p>
+
+<p class="MsoNormal">知县从字据上发现了什么破绽？</p>
+
+<p align="left" class="MsoNormal" style="text-align:left;line-height:14.4pt;&#10;mso-pagination:widow-orphan;background:white">答：如果是<span lang="EN-US">10</span>年前的字据，并且是叠起来保存的话，就应当是外面发黄，里面还是白的。</p>
+
+<p class="MsoNormal">而这张字据里外都呈黄色。经审问，张某终于招供：去年他和汪某立字据，有意将时间漏写，拿回家去补填了<span lang="EN-US">10</span>年前日期，并用茶汁将字据染色，使纸变黄。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">14. ______</span>罪犯步子短，脚印之间的距离往往不规则，步行的路线弯曲。</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>少年<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>B.</span>青年<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>C</span>中年<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D.</span>老年</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">15.</span><b><span lang="EN-US" style="font-size:18.0pt;font-family:幼圆;mso-hansi-font-family:宋体;color:black;&#10;mso-themecolor:text1;mso-font-kerning:12.0pt"> </span></b>一位年轻的女教师被人杀害在她的单身公寓里，凶手是在昨天晚上将她杀害。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span></span>女教师身穿睡衣倒在床上，致命的是胸口那一刀。公寓是个密室，女教师一定是自己<span class="GramE">开门请</span>凶手进来再遇害的。警方发现公寓的防盗门上有个猫眼，可以看到敲门人是谁。经调查，警方锁定了两个犯罪嫌疑人：她的学生，她的情人。<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span></span>学生说：老师约我晚上<span lang="EN-US">8</span>点来她这里辅导功课，却没想到我一进来就见她穿着睡衣，根本不像是要给我辅导功课。然后她要求我跟她交欢，我没有同意，并很气愤地摔门而出。所以我待了不到半小时就离开了，怎么可能杀害她呢？<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span></span>情人说：我是来给她送手机的，昨天我们<span class="GramE">车震她把</span>手机忘在我车上了。进门后我看她穿着睡衣已经要休息了，她平时也一般都是<span lang="EN-US">9</span>点多钟就休息的，我便放下手机就离开了。你们看桌上的手机就是我送来的，我怎么可能杀害她呢？</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span></span>听完两个嫌疑人的供述，警方果断逮捕了情人。</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">警方是如何判定的呢？</p>
+
+<p class="MsoNormal">答：因为学生是<span lang="EN-US">8</span>点去的，走的时候不到半小时。而情人是<span lang="EN-US">9</span>点去的，如果是学生杀的那么流氓女教师那时已经死了，所以情人在说谎。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">16. </span>“一个人的身高，十之八九可以从他的步伐的长度上知道。”<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span class="GramE">血字的</span>研究－－《福尔摩斯侦探录》</p>
+
+<p class="MsoNormal">身高<span lang="EN-US">(</span>厘米<span lang="EN-US">)</span>＝脚印长度<span lang="EN-US">(</span><span class="GramE">厘米<span lang="EN-US">)</span></span>×<span lang="EN-US">______</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">A.4.876<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>B.5.876<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>C.6.876<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>D.7.876 </span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">17. </span>爆炸犯是谁？确定乘在自动扶梯上的罪犯。</p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="图片占位符_x0020_5" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:162pt;
+ height:144.75pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image013.jpg" o:title="" cropleft="256f"
+  cropright="256f"/>
+ <o:lock v:ext="edit" grouping="t"/>
+</v:shape><![endif]--><!--[if !vml]--><img width="216" height="193" src="2017推理竞赛习题详解.files/image014.jpg" v:shapes="图片占位符_x0020_5"><!--[endif]--></span></p>
+
+<p align="left" class="MsoListParagraph" style="margin-left:18.0pt;text-align:left;&#10;text-indent:-18.0pt;mso-char-indent-count:0;line-height:150%;mso-pagination:&#10;widow-orphan;mso-list:l0 level1 lfo6;background:white"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:等线;mso-fareast-theme-font:minor-latin;&#10;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]-->答：鸟<span class="GramE">陬</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">18. </span>前不久是小虎的生日。他的父母在他四岁时就离婚了<span lang="EN-US">,</span>他被判给了他爸爸<span lang="EN-US">,</span>但是他的妈妈每当他生日的时候都会给他寄来贺卡和礼物。但是今年的生日<span lang="EN-US">,</span>小虎却再也收不到礼物了<span lang="EN-US">,</span>因为就在几天前<span lang="EN-US">,</span>他母亲在一次外出时被一辆大卡车撞死了。小明拿出他珍藏的六张之前每次生日妈妈寄给他的贺卡<span lang="EN-US">,</span>忍不住留下了眼泪。几天后<span lang="EN-US">,</span><span class="GramE">一</span>阳警探逮捕小虎<span lang="EN-US">,</span>理由是他杀死了那个撞死他母亲的肇事司机。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;
+</span><span style="mso-spacerun:yes">&nbsp;&nbsp;</span></span>听到这里<span lang="EN-US">,</span>机智的刑警们察觉到似乎有点不对劲<span lang="EN-US">,</span>小虎四岁时父母离婚了<span lang="EN-US">,</span>之后每当生日母亲都会给他寄来贺卡<span lang="EN-US">,</span>在母亲被撞死之前<span lang="EN-US">,</span>小虎一共只收到了<span lang="EN-US">6</span>张贺卡<span lang="EN-US">,</span>说明他此时的年龄应该是<span lang="EN-US">4+6=10</span>岁。那么一个十岁的孩子怎么可能杀死一个成年的卡车司机呢？</p>
+
+<p class="MsoNormal">答：其实答案很简单<span lang="EN-US">,</span>小虎的生日是<span lang="EN-US">2</span>月<span lang="EN-US">29</span>日<span lang="EN-US">,</span>是每隔四年才会出现一次的日子。在他四岁父母离婚后<span lang="EN-US">,</span>他<span class="GramE">一共过</span>了六次生日<span lang="EN-US">,</span>就说明已经赶过去了<span lang="EN-US">4</span>×<span lang="EN-US">6=24</span>年<span lang="EN-US">,</span>那么他的实际年龄就是<span lang="EN-US">24+4=28</span>岁。所以一个二十八岁的青年杀死一个成年卡车司机也就没什么奇怪的了。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">19.</span><span lang="EN-US" style='font-size:32.0pt;font-family:"Microsoft YaHei UI",sans-serif;mso-bidi-font-family:&#10;"Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-themecolor:&#10;text1;mso-font-kerning:12.0pt'> </span>头发中的含镉量偏高，意味着这个人<span lang="EN-US">______.</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>营养不良<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B.</span>烟瘾很大 </p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>患有多尿症<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.</span>精神分裂</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">B</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">20. </span>张三和李四是同事。一天，两人扭打着到了公安局。张三对警官说：“昨天晚上，家里的灯都熄了，我突然听到扭打声。于是，跳下床出去看个究竟，正撞上一个人从我女儿的房间里跑出来，窜下楼梯去了。我跟早后面猛追，当那人跑到街口时，我借着路灯看清他是李四。他跑了大约<span lang="EN-US">50</span>米远，仍掉了一个什么东西。那东西在路面弹了几下后掉进了阴沟，在黑暗中撞击出一串火花。我没追上他，回到家一看，女儿被钝器击中，倒在地上。”</p>
+
+<p class="MsoNormal">　　警方按照张三说的地点，找到了一尊青铜像，青铜像底部沾的血迹和头发是张三的女儿的，而且青铜像上有李四的指纹。李四辩解说：“指纹可能是我前几天在张三家玩是留下的。”我听了他们两人的述说和现场所见，沉思片刻，对着张三说：“你在诬陷李四。”<span lang="EN-US">&nbsp;<br>
+</span>　<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span></span>为什么？</p>
+
+<p align="left" class="MsoListParagraph" style="margin-left:18.0pt;text-align:left;&#10;text-indent:-18.0pt;mso-char-indent-count:0;line-height:150%;mso-pagination:&#10;widow-orphan;mso-list:l0 level1 lfo6;background:white"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:等线;mso-fareast-theme-font:minor-latin;&#10;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]-->答：青铜是一种抗摩擦的金属材料，古时候，被广泛用于制造大炮，青铜和路面撞击不会擦出火花。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">21. </span>《福尔摩斯探案》的作者，柯南·道尔是哪个国家的？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>美国<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span>B.</span>英国<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span>C.</span>日本<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp; </span>D.</span>法国</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">B</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">22. </span>《纯黑的噩梦》是名侦探柯南第几部剧场版？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.18<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.19<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>C.21<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.20</span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">D</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">23. </span>《东方快车谋杀案》是哪个作家的作品？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>阿加莎·克里斯蒂<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.</span>东野<span class="GramE">圭</span>吾 </p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>亚瑟·罗宾<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.</span>柯南·道尔</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">24. </span>尸斑一般在人死后多少时间内出现？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.1~2</span>小时<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B.2~3</span>小时<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">C.3~4</span>小时<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.4~5</span>小时</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">25. </span>赵女士买了一些水果和小食品准备去看望一个朋友，谁知，这些水果和小食品被他的儿子们偷吃了，但她不知道是哪个儿子偷吃的。为此，赵女士非常生气，就盘问<span lang="EN-US">4</span>个儿子谁偷吃了水果和小食品。老大说道：“是老二吃的。”老二说道：“是老四偷吃的。”老三说道：“反正我没有偷吃。”老四说道：“老二在说谎。”这<span lang="EN-US">4</span>个儿子中只有一个人说了实话，其他的<span lang="EN-US">3</span>个都在撒谎。</p>
+
+<p class="MsoNormal">那么，到底是谁偷吃了这些水果和小食品？</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>A.</span>老大<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B.</span>老二</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>C.</span>老三<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.</span>老四</p>
+
+<p style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo6"><!--[if !supportLists]--><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:等线;&#10;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&#10;minor-latin;mso-bidi-font-family:等线;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]-->答：<span style='font-size:10.5pt;mso-bidi-font-size:&#10;11.0pt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&#10;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";&#10;mso-bidi-theme-font:minor-bidi'>是老三偷吃了水果和小食品，只有老四说了实话。<span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p style="margin-left:18.0pt"><span style='font-size:10.5pt;mso-bidi-font-size:&#10;11.0pt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&#10;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";&#10;mso-bidi-theme-font:minor-bidi'>用假设法分别假设老大、老二、老三、老四都说了实话，看是否与题意矛盾，就可以得出答案。<span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">26.</span><span lang="EN-US" style='font-size:28.0pt;font-family:"Microsoft YaHei UI",sans-serif;mso-bidi-font-family:&#10;"Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-themecolor:&#10;text1;mso-font-kerning:12.0pt'> </span>两个女孩一起用餐，</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">她们都喝了冰红茶。</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">其中一个女孩喝得很快，</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">另一个女孩刚喝了一杯，</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">她就已经喝完五杯。</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">喝了一杯冰红茶的女孩死了</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">喝了五杯冰红茶的女孩活了下来。</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">后来警察发现，所有的饮料都有毒。</p>
+
+<p class="MsoNormal" style="text-indent:21.0pt">喝得多的女孩为什么没死？</p>
+
+<p class="MsoNormal">答：毒在冰块里</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">27.</span>含氰<span class="GramE">甙</span>及氰酸临床表现为<span lang="EN-US">_____.</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>流汗<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.</span>异味<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C.</span>杏仁味<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.</span>口干</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">28.</span><span lang="EN-US" style='font-size:28.0pt;font-family:"Microsoft YaHei UI",sans-serif;mso-bidi-font-family:&#10;"Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-themecolor:&#10;text1;mso-font-kerning:12.0pt'> </span>有个寺庙有一颗大佛珠，由寺里两个和尚看守。中秋节那天，师傅对两个徒弟说：“我要外出化缘，你们留下来看守寺庙。”半个月后，师傅回来发现大佛珠被偷了，便叫来两个徒弟询问。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>大徒弟说：“昨晚借着月光，我看见师弟爬上塔顶偷走佛珠。”</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>小徒弟争辩道：“我昨晚整夜都睡在禅房的，整夜都没起来过。”</p>
+
+<p class="MsoNormal">师傅听完这段对话后，明白谁在说谎了。你知道吗<span lang="EN-US">?</span>说明理由</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A</span>、大徒弟<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B</span>、小徒弟</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A </span>大徒弟说谎，中秋节的半个月之后，月亮应该是月牙，基本没有月光。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">29. </span>从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定规律性：</p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="图片_x0020_9" o:spid="_x0000_i1029" type="#_x0000_t75" alt="c81b3d2ac65c103896e890e4bb119313b17e89c9"
+ style='width:291pt;height:97.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image015.jpg" o:title="c81b3d2ac65c103896e890e4bb119313b17e89c9"
+  cropbottom="7400f"/>
+</v:shape><![endif]--><!--[if !vml]--><img width="388" height="130" alt="c81b3d2ac65c103896e890e4bb119313b17e89c9" src="2017推理竞赛习题详解.files/image016.jpg" v:shapes="图片_x0020_9"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C </span>每行前两个图形叠加，保留所有的线条<span lang="EN-US">(</span>火柴<span lang="EN-US">)</span>，得到第三个图形。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">30.</span><span lang="EN-US" style='font-size:20.0pt;font-family:"Microsoft YaHei UI",sans-serif;mso-bidi-font-family:&#10;"Times New Roman";mso-bidi-theme-font:major-bidi;color:black;mso-themecolor:&#10;text1;mso-font-kerning:12.0pt'> </span>老爷下午两点被人杀死在房间，<span lang="EN-US">K</span>警官发现少爷小陈、园丁老何、管家<span class="GramE">老赵三人</span>有重大嫌疑。</p>
+
+<p class="MsoNormal">小陈眉宇中有些欣喜：“我不知道谁杀了爸爸，我非常的难过，我今天吃完午饭后都在房间里看武侠小说，那本小说是最新出版的，我昨天晚上就跑去书店买了。”</p>
+
+<p class="MsoNormal">老何害怕的说：“我没有杀害老爷，我当时正在浇园里的花，我怀疑是老赵杀了老爷，这个老赵私吞家里的钱，老爷当众羞辱过他，并且责令其一<span class="GramE">个</span>月内还上钱，否则就报警，你们可千万别说是我说的。”</p>
+
+<p class="MsoNormal">老赵紧张的说：“我没有杀害老爷，老爷对我恩重如山，我怀疑是老何或者是少爷杀了老爷，他们两个都是混蛋，老何在这里就工作了三年，近期却嚷着要涨工资，还要老爷多给他假期。少爷也非常的不像话，一点也不孝顺老爷，还成天无所事事，就盼着老爷死。”</p>
+
+<p class="MsoNormal">请问：凶手是谁？并说明理由。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;
+</span>A.</span>小陈<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B.</span>老何<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>C.</span>老赵</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">B </span>因为工作了三年的园丁是不会在下午两点浇花的。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoSubtitle">决赛</p>
+
+<p class="MsoNormal"><span lang="EN-US">1.</span><span lang="EN-US" style="font-size:&#10;28.0pt;mso-hansi-font-family:Arial;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt"> </span><span lang="EN-US">“</span>喂<span lang="EN-US">?”</span>一位十分有名的侦探先生接到一位粉丝的来电。<span lang="EN-US"><br>
+</span>”您好<span lang="EN-US">!</span>您就是毛利名侦探吗<span lang="EN-US">?</span>我已经仰慕您很久了<span lang="EN-US">!</span>下下<span class="GramE">个</span>星期五有空吗<span lang="EN-US">?</span>我想请您来我家吃顿饭<span lang="EN-US">!"&nbsp;</span>但侦探并不想去<span lang="EN-US">:“</span>对不起啊<span lang="EN-US">!</span>我下下<span class="GramE">个</span>星期五恰好很忙<span lang="EN-US">!</span>因为我上午要开一早上的会议，中午要参加我叔叔的葬礼，下午要去参加同学聚会，晚上又要开派对<span lang="EN-US">!</span>真对不起，改天吧<span lang="EN-US">!"&nbsp;</span>粉丝沉默了，良久，又说<span lang="EN-US">:“</span>侦探先生，您所说的事情中，恐怕，有件事说错了吧<span lang="EN-US">?"&nbsp;</span>请问，是哪件事说错了<span lang="EN-US">?<br>
+A</span>、开会<span lang="EN-US"><br>
+B.</span>葬礼<span lang="EN-US"><br>
+C.</span>同学聚会<span lang="EN-US"><br>
+D</span>、派对</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">,B</span>因为不可能预言到自己下下周会参加葬礼</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">2.</span><span lang="EN-US" style="font-size:&#10;32.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt"> </span>一个天高气爽的秋天，警方收到一起报案。报案的是一个男子，他声称自己的女友自杀了。他说他们<span lang="EN-US"><br>
+</span>两个在此之前通过电话，他的电话是录音电话。于是警方到他家去调查。进门后，时钟敲了四声<span lang="EN-US">-<br>
+</span>下午四点了。警方调取了通话，发现通话长达<span lang="EN-US">1</span>个半小时，警方耐心地听完了，发现只有他们两个的声<span lang="EN-US"><br>
+</span>音。问<span lang="EN-US">:</span>人是谁杀死的<span lang="EN-US">?<br>
+A</span>、自杀<span lang="EN-US"><br>
+B</span>、男子<span lang="EN-US"><br>
+C</span>、另有其人</p>
+
+<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;&#10;mso-layout-grid-align:none;text-autospace:none">答：<span lang="EN-US" style='font-size:9.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:Helvetica;&#10;color:#262626;mso-themecolor:text1;mso-themetint:217;mso-font-kerning:0pt'>B</span><span style='font-size:9.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:Helvetica;&#10;color:#262626;mso-themecolor:text1;mso-themetint:217;mso-font-kerning:0pt'>没有时钟的声音，记录是伪造的</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">3.</span>一天<span lang="EN-US">,<span class="SpellE">harlan</span></span>的店里来了一位顾客<span lang="EN-US">,</span>挑了<span lang="EN-US">25</span>元的货<span lang="EN-US">,</span>顾客拿出<span lang="EN-US">100</span>元<span lang="EN-US">,<span class="SpellE">harlan</span></span>没零钱找不开<span lang="EN-US">,</span>就到隔壁飞白的店里把这<span lang="EN-US">100</span>元换成零钱<span lang="EN-US">,</span>回来给顾客找了<span lang="EN-US">75</span>元零钱。过一会<span lang="EN-US">,</span>飞白来找<span class="SpellE"><span lang="EN-US">harlan</span></span><span lang="EN-US">,</span>说刚才的是假钱<span lang="EN-US">,<span class="SpellE">harlan</span></span>马上给飞白换了</p>
+
+<p class="MsoNormal">张真钱<span lang="EN-US">,</span>问<span class="SpellE"><span lang="EN-US">harlan</span></span>赔了多少？</p>
+
+<p class="MsoNormal">答：赔了<span lang="EN-US">100</span>元</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">4.</span><span lang="EN-US" style="font-size:&#10;26.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt"> </span>昨天，有一个犯人从监狱里逃了出来。</p>
+
+<p class="MsoNormal">早晨，他溜进一家茶叶店里准备大干一番。刚进去不久，茶叶店老板就回来了，于是他躲了起来。不久<span class="GramE">一</span>男子进来，身后有一女子被他拉着。老板上前，被男子一枪打死并拖到暗处。</p>
+
+<p class="MsoNormal">见此情景，逃犯不停颤抖。过了一会儿，街道上已有了行人，逃犯越来越恐惧，最终被杀人犯发现。</p>
+
+<p class="MsoNormal">门又开了，一位顾客手里拿着报纸进来，杀人犯叫逃犯把客人打发走。</p>
+
+<p class="MsoNormal">逃犯笑着接待顾客，并卖了茶叶给客人，又和客人寒暄了几句。</p>
+
+<p class="MsoNormal">两分钟后，警察进来把逃犯与杀人犯抓走，那个被杀人犯带来的女子乃<span class="GramE">一</span>富翁之女，今早才被绑架。</p>
+
+<p class="MsoNormal">既没让杀人犯发觉有问题，又把警察叫了过来，逃犯是如何做到的？ </p>
+
+<p class="MsoNormal">答：逃犯对顾客说让他去看今天的报纸，逃犯昨天逃走，今天的报纸上会有报道，顾客看完后报了警。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">5.</span><span lang="EN-US" style="font-size:&#10;16.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt"> </span>严冬的一天，<span class="GramE">女盗梅姑</span>应团侦探之邀来到侦探事务所。
+一进屋，见屋子中间摆着<span lang="EN-US">3</span>个新型保险柜。<span lang="EN-US">"</span>啊，梅姑，都说你是开保险柜的能人，那么你在<span lang="EN-US">10</span>分钟之内能打开吗？<span lang="EN-US">"</span>团侦探问道。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"3</span>个用<span lang="EN-US">10</span>分钟吗<span lang="EN-US">? ""</span>不，一个用<span lang="EN-US">10</span>分钟。<span lang="EN-US">""</span>要是这样的话，没什么问题。<span lang="EN-US">"</span>梅<span class="GramE">妨</span>很自信地说。</p>
+
+<p class="MsoNormal"><span lang="EN-US">“</span>实际上，这是一个保险柜生产厂家的新产品，并计划推出这样的广告宣传词<span lang="EN-US">‘</span>连女盗梅姑也望尘莫及<span lang="EN-US">’</span>。为慎重起见，保险柜生产厂家特地委托我请你给试验一下。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>还没我打不开的保险柜呢，可如果<span lang="EN-US">10</span>分钟内打开了怎么办<span lang="EN-US">?"</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>可以得到厂家一笔可观的酬金。还是快干吧，我用这个沙漏给你计时。<span lang="EN-US">"</span></p>
+
+<p class="MsoNormal">团侦探把一个<span lang="EN-US">10</span>分钟用的沙漏倒放在保险柜上面。梅姑也跟着开始动作。她将听诊器贴在保险柜的密码盘上，慢慢拨动着号码。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>梅姑小姐，己经<span lang="EN-US">9</span>分钟了，还没打开吗？<span lang="EN-US">" "</span>别急嘛，新型保险柜，指尖对它还不熟悉。<span lang="EN-US">"</span></p>
+
+<p class="MsoNormal">梅姑瞥了一眼沙滑，终于找出了密码。因为是<span lang="EN-US">6</span>位数的复杂组合，所以颇费些功夫。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>好啦，开了。<span lang="EN-US">"</span>梅<span class="GramE">姑打开</span>保险柜时，沙漏里的沙子还<span class="GramE">差一点几就</span>全到下面去了。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>可真不赖，正好在<span lang="EN-US">10</span>分钟之内。那么再开第<span lang="EN-US">2</span>个吧。<span lang="EN-US">"</span>团侦探说着把沙漏倒过来。</p>
+
+<p class="MsoNormal">第<span lang="EN-US">2</span>个保险柜，梅姑也在规定时间打开了。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>趁着兴头，接着开第<span lang="EN-US">3</span>个吧。但<span lang="EN-US">3</span>个保险柜都要在规定时间内打开，否则就拿不到酬金<span lang="EN-US">"</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>那好，请你把炉火再调旺些，这么冷手都木了，手感太迂钝。<span lang="EN-US">"</span>梅姑说。</p>
+
+<p class="MsoNormal">团侦探赶紧将煤油炉的火苗往大调了调，并将炉子挪至保险柜前。梅姑将手放在炉火上，烤了烤指尖。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>开始吧。<span lang="EN-US">" </span>团侦探将沙漏<span class="GramE">一</span>倒过来，梅姑就接着开第<span lang="EN-US">3</span>个保险柜。</p>
+
+<p class="MsoNormal">然而，这次沙漏中的沙子都流到了下面，<span lang="EN-US">10</span>分钟已过，但保险柜还未打开。<span lang="EN-US">"</span>梅姑小姐，<span lang="EN-US">10</span>分钟已经过了呀。<span lang="EN-US">"</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>怪了，怎么会打不开呢，可……<span lang="EN-US">" </span>梅姑瞥了一眼煤油炉旁的沙漏。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>团侦探，这个保险柜没做什么手脚吧<span lang="EN-US">?"</span>梅姑有些焦急，额头沁出了汗珠，可依然聚精会神地开锁。约摸过了一分钟，她终于把保险柜打开了。柜中放着一个装有酬金的信封。</p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>这就怪了，与前两次都是一样的干法，这次怎么会慢了呢<span lang="EN-US">?" </span>她歪看头，感到纳闷儿。忽然，她注意到了什么，<span lang="EN-US">"</span>我差一点儿被你蒙骗了，我就是在规定时间内打开的保险柜，酬金该归我了<span lang="EN-US">!"</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>哈哈<span class="GramE">哈</span>、还是被你看出来了，真不愧是怪盗哇，还真骗不了你。<span lang="EN-US">" </span>团侦探乖乖地将酬金交给了梅姑。</p>
+
+<p class="MsoNormal">那么，他是<span class="GramE">甩什么</span>手段做的手脚呢<span lang="EN-US">?</span></p>
+
+<p align="left" class="MsoNormal" style="text-align:left;line-height:14.4pt;&#10;mso-pagination:widow-orphan;background:white">答：沙漏放到<span class="GramE">了媒气炉旁</span>。</p>
+
+<p class="MsoNormal">为此，煤气炉发热<span class="GramE">使得沙滑的</span>玻璃膨胀，漏沙子的窟窿也随之变大，沙子很快落下，所以，即便上部玻璃瓶的沙子全部落到下面，其实也没到<span lang="EN-US">10</span>分钟。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">6.</span><span lang="EN-US" style="font-size:&#10;28.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt"> </span>有一个城市社会治安很不好，人们成天提心吊胆的生活，汤<span class="GramE">姆</span>就住在这个城市里。有一天晚上，汤<span class="GramE">姆</span>做了一个噩梦，梦见他被凶恶的强盗用刀狠狠的捅了一刀。结果，可怜的汤<span class="GramE">姆</span>因在梦中受到过度刺激而死掉了。这个故事是真的还是假的？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A</span>、真的</p>
+
+<p class="MsoNormal"><span lang="EN-US">B</span>、假的</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">B</span>假的，如果是真的就没有人知道这个梦了</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">7.</span><span lang="EN-US" style="font-size:&#10;44.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt"> </span>两个空心球<span lang="EN-US">,</span>大小及重量相同<span lang="EN-US">,</span>但材料不同。一个是金<span lang="EN-US">,</span>一个是铅。空心球表面图 有相同颜色的油漆。现在要求在不破坏表面油漆的条件下用简易方法指出哪个是金的<span lang="EN-US">,</span>哪<span lang="EN-US">&nbsp;</span><span class="GramE">个</span>是铅的。</p>
+
+<p class="MsoNormal">答：<span style="mso-bidi-font-size:10.5pt;font-family:宋体;&#10;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;mso-bidi-font-family:&#10;宋体;color:black;mso-font-kerning:0pt">相同得力原地旋转两个球</span><span lang="EN-US" style='mso-bidi-font-size:10.5pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:&#10;宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt'>, </span><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;&#10;mso-hansi-font-family:Verdana;mso-bidi-font-family:宋体;color:black;mso-font-kerning:&#10;0pt">两球重心到内壁中心距离不同</span><span lang="EN-US" style='mso-bidi-font-size:10.5pt;&#10;font-family:"Verdana",sans-serif;mso-fareast-font-family:宋体;mso-bidi-font-family:&#10;宋体;color:black;mso-font-kerning:0pt'>, </span><span style="mso-bidi-font-size:&#10;10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;mso-hansi-font-family:Verdana;&#10;mso-bidi-font-family:宋体;color:black;mso-font-kerning:0pt">线速度不同</span><span lang="EN-US" style='mso-bidi-font-size:10.5pt;font-family:"Verdana",sans-serif;&#10;mso-fareast-font-family:宋体;mso-bidi-font-family:宋体;color:black;mso-font-kerning:&#10;0pt'>.</span><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&#10;Verdana;mso-hansi-font-family:Verdana;mso-bidi-font-family:宋体;color:black;&#10;mso-font-kerning:0pt">转得快得是金球</span><span lang="EN-US" style='mso-bidi-font-size:&#10;10.5pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:宋体;mso-bidi-font-family:&#10;宋体;color:black;mso-font-kerning:0pt'>.&nbsp;</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">8.</span><span lang="EN-US" style="font-size:&#10;44.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt"> </span>一家服饰店的老板发现他的一种帽子卖不出去，只好降价销售。他先将帽子由<span lang="EN-US">20 </span>元降到了<span lang="EN-US">8</span>元，又由<span lang="EN-US">8 </span>元降到了<span lang="EN-US">3.2</span>元，再由<span lang="EN-US">3.2</span>元降到<span lang="EN-US">1.28</span>元，但还是没有完全卖光。如果说他的降价是有一定规律的，那么请问他下次降价应该是降到多少钱<span lang="EN-US">?</span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">0.512</span>元。因为他每次都以<span lang="EN-US">4</span>折的幅度在降价。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">9.</span><span lang="EN-US" style="font-size:&#10;23.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt"> </span>我是上海磁悬浮列车车长。这天刚到终点站，车厢后部就有骚动的声音逐渐变大，最后一股脑涌进驾驶室。</p>
+
+<p class="MsoNormal"><span lang="EN-US">“</span>怎么回事<span lang="EN-US">?” </span>我走出了驾驶室，却看到一个一身土豪打扮的男士和一个一身土气的小伙子扭打在一起。</p>
+
+<p class="MsoNormal"><span lang="EN-US">“</span>他趁 俺给 手表擦灰尘的时候抢了俺的表<span lang="EN-US">!”</span>小伙子喘着粗气嚷道。</p>
+
+<p class="MsoNormal"><span lang="EN-US">“</span>别胡说了<span lang="EN-US">!<span class="GramE">”<span lang="EN-US"><span lang="EN-US">土豪瞪着小伙子</span></span></span></span>，又掏出丝巾擦拭着被小伙子弄脏的表盒子“明明是我的表，你抢走就变你的了<span lang="EN-US">?"</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">"</span>你们说说表有<span class="GramE">啥特征</span><span lang="EN-US">?" </span>我<span class="GramE">一把撸下了</span>帽子问道。</p>
+
+<p class="MsoNormal">小伙子抢先开了腔，“表是俺爹留给俺的，机械表，金属表带<span lang="EN-US">!"</span></p>
+
+<p class="MsoNormal">土豪鄙夷地望了他一眼，“我是看着表<span class="GramE">一</span>步步走到<span lang="EN-US">12</span>点才拔出表旋钮停住了表的。表的牌子是埃尔金，<span lang="EN-US">1910</span>年美国产，表旋钮上应该还能找得到我的指纹吧。我问<span lang="EN-US">:“</span>你的手表有没有出过什么故障<span lang="EN-US">?”&nbsp;</span>土豪<span lang="EN-US">:“</span>它走的一直都很好，一直没问题。<span lang="EN-US">”</span></p>
+
+<p class="MsoNormal">我仔细观察了下这只表，我知道这表是谁的了<span lang="EN-US">.....</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>土豪</p>
+
+<p class="MsoNormal"><span lang="EN-US">B</span>、小伙子</p>
+
+<p class="MsoNormal"><span lang="EN-US">C</span>、我</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">B</span>机械手表的内部零件中有一个<span lang="EN-US">“</span>游丝<span lang="EN-US">”</span>，游丝的摆动会受到磁场的影响。在磁悬浮列车<span lang="EN-US"><br>
+</span>中的磁场足以影响手表的正常走动，特别是早期的手表，甚至会出现指针左右摆动却不走的情况。所以土豪所说的<span lang="EN-US">“</span>看着它<span class="GramE">一</span>步步走到整点<span lang="EN-US">”</span>当然是谎话啦</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">10.</span><span lang="EN-US" style="font-size:48.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>在<span lang="EN-US">20</span>世纪中有这样一年，这一年的年份数倒过来写在纸上仍是该年年份数。这一年是哪一年<span lang="EN-US">?</span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">1961</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">11.</span><span lang="EN-US" style="font-size:54.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>公安局截获某犯罪团伙的一封密电，电文如下<span lang="EN-US">:</span><span class="GramE">吾合分昌盍旮</span>垄聚鑫。请破译这封密电。<span lang="EN-US">(</span>答案是密电内容，<span lang="EN-US">9</span>个汉字<span lang="EN-US">)</span>。</p>
+
+<p class="MsoNormal">答：<span lang="EN-US" style="font-family:宋体;mso-bidi-font-family:&#10;宋体;mso-font-kerning:0pt;mso-bidi-language:AR;mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="图片_x0020_15" o:spid="_x0000_i1028" type="#_x0000_t75" alt="IMG_256"
+ style='width:280.5pt;height:21pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image017.png" o:title="IMG_256"/>
+</v:shape><![endif]--><!--[if !vml]--><img width="374" height="28" alt="IMG_256" src="2017推理竞赛习题详解.files/image018.jpg" v:shapes="图片_x0020_15"><!--[endif]--></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">12.</span><span lang="EN-US" style="font-size:36.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>小张在一个小超市买了一些东西，他离开的时候发现超市的时钟指向<span lang="EN-US">11</span>点<span lang="EN-US">50</span>分，回到家，家里的时钟已经是<span lang="EN-US">12</span>点<span lang="EN-US">5</span>分了，但他发现还有一些重要的东西没有买，于是就以同一速度返回超市。到超市时他发现超市的时钟指向<span lang="EN-US">12</span>点<span lang="EN-US">10</span>分。</p>
+
+<p class="MsoNormal">家里的钟是十分准确的，请问超市的钟是慢了还是快了？</p>
+
+<p class="MsoNormal">答：小超市的时钟慢了五分钟</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">13.</span><span lang="EN-US" style="font-size:28.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>一个冬日的黄昏，我正漫步街头，突然听到一声枪响，看见不远处一个老人跌向房门，慢慢地倒了下去。我和街上仅有的两个人，先后跑了过去，发现老人背部中弹，已经死去。</p>
+
+<p class="MsoNormal"><span lang="EN-US">&nbsp;&nbsp;&nbsp; </span>我看见两个人都戴着手套，便问他们刚才在做什么。</p>
+
+<p class="MsoNormal"><span lang="EN-US">&nbsp;&nbsp;&nbsp; </span>第一位说：“我看见老人刚要锁门，枪一响，他应声而倒，我便立即跑来。”<span lang="EN-US"><br>
+&nbsp;&nbsp;&nbsp; </span>第二位说：“我听到枪声不知发生了什么事情，看到你俩到往这跑，我也就跟了过来。”</p>
+
+<p class="MsoNormal"><span lang="EN-US">&nbsp;&nbsp;&nbsp; </span>钥匙还插在房门的锁眼里，我打开门，走进房间，打电话报警。警署人员来了以后，我指着一个人说：“把他拘留询问。”</p>
+
+<p class="MsoNormal"><span lang="EN-US">&nbsp;&nbsp;&nbsp; </span>拘留谁？为什么？</p>
+
+<p align="left" class="MsoNormal" style="text-align:left;line-height:14.4pt;&#10;mso-pagination:widow-orphan;background:white">答：拘留第一个说话的人。</p>
+
+<p class="MsoNormal">他知道老人是锁房门，而不是开房门，说明他一直在窥视老人行动。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">14.</span><span lang="EN-US" style="font-size:32.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>某市一个大型珠宝展览会上，人山人海。突然，一个男子迅速走到装有一粒价值连成的<u>钻石</u>的玻璃柜前，抡起锤子一敲，玻璃<span lang="EN-US">“</span>哗啦<span lang="EN-US">”</span>一声破裂开来，男子抢出钻石，乘乱逃走。警方赶到现场，珠宝商哭诉道：<span lang="EN-US">“</span>柜子是用防盗公司制造的特别防盗玻璃做的，别说锤子，就是子弹打上去也不会破裂呀！<span lang="EN-US">”</span>经过调查，认定那些碎玻璃的确是防盗玻璃。警方百思不得其解，于是向名侦探请教。皮特略<span class="GramE">一</span>思索，便根据防盗玻璃的特性，指出了谁是罪犯。你知道谁是罪犯吗？为什么？</p>
+
+<p class="MsoNormal"><span lang="EN-US">&nbsp;</span>答：脆弱的防盗玻璃。</p>
+
+<p class="MsoNormal">犯人是制造玻璃的人。这种钢化玻璃，尽管很硬，但是只要上面有一个小小的裂缝，再照着那里用点劲儿，就会像瓷碗一样碎掉。知道这种常识的人应该不多，而且这明显是有预谋的，普通人不知道，知道也不会去<span class="GramE">砸这种</span>玻璃，而知道这种常识，又能制造这种漏洞的就只有玻璃的制造人了。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">15.</span><span lang="EN-US" style="font-size:36.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>琳达的马脚</p>
+
+<p class="MsoNormal"><span lang="EN-US"><br>
+</span>柯南正在寓所用餐，只见琳达小姐<span class="GramE">尖叫着</span>“救命”闯了进来，上气不接下气地叫到：“太可怕了<span lang="EN-US">……</span>小偷盗走了我的毕加索名画<span lang="EN-US">……</span>吓死我了<span lang="EN-US">……”</span>她头发湿漉漉的，毛巾浴衣下双脚还淌着水珠。柯南来到她的浴室看着，听她详细叙述着。</p>
+
+<p class="MsoNormal">琳达说，刚才她在浴室里淋热水浴，门和<span class="GramE">窗都是</span>紧紧关着的，当她洗完穿上浴衣，门突然被猛力撞开，她从镜子里看到一张肥大、通红、粗糙的脸，咧开大嘴对她阴笑。她以为强盗要杀自己，可那家伙却反身“砰”地关上门走了。她从浴室回到客厅，发现一幅毕加索的名画不见了。<span lang="EN-US"><br>
+</span>柯南是位经验丰富的侦探，她听罢琳达小姐的叙述，认定她报的是假案，便一言不发地走了。你能看出琳达何处露了马脚吗？ </p>
+
+<p class="MsoNormal">答：镜子上全是雾气，根本不可能看清他的脸</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">16.</span><span lang="EN-US" style="font-size:32.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>杀人犯在案发时一定在杀人现场。据此，我们可以推出<span lang="EN-US">()</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>赵明不是杀人犯，所以赵明案发时不在现场。</p>
+
+<p class="MsoNormal"><span lang="EN-US">B.</span><span class="GramE">钱阳案发</span>时在现场，<span class="GramE">所以钱阳</span>是杀人犯。</p>
+
+<p class="MsoNormal"><span lang="EN-US">C.</span>孙林不在案发现场，但孙林是杀人犯。</p>
+
+<p class="MsoNormal"><span lang="EN-US">D.</span>李月案发时不在现场，所以李月不是杀人犯。<span lang="EN-US">&nbsp;</span></p>
+
+<p class="MsoNormal">答：<span lang="EN-US">D</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">17.</span><span lang="EN-US" style='font-size:24.0pt;font-family:"微软雅黑",sans-serif;mso-fareast-font-family:&#10;等线;mso-fareast-theme-font:minor-fareast;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt'> </span>依琳听着走廊回荡着自己的脚步声，心里一阵发毛。最近学校里出了个杀人狂，目前已经死了七个人，凶手仍没有抓到。说不害怕是假，但依<span class="GramE">琳知道</span>如果不拿回那封信，自己就会身败名裂。她暗暗后悔，自己不该那么不小心，让这个惯偷小伟偷走了那封信。好在小<span class="GramE">伟永远开</span>不了口了，虽然不知道是怎么回事，但依<span class="GramE">琳还</span>是很高兴。她在学校的储物箱处停了下来，连忙拿出带血的钥匙，对着钥匙上的号码打开了<span lang="EN-US">89</span>号储物箱。她愣在那里，里面没有她的信，只有一副血手套。一阵轻微的脚步声响起。</p>
+
+<p class="MsoNormal">请问这是怎么回事？请<span class="GramE">还原此</span>案件。</p>
+
+<p class="MsoNormal">答：依琳无意中在走廊发现了被杀的小伟，小伟就是第<span lang="EN-US">7</span>个被杀的人 。依<span class="GramE">琳想到</span>被偷的信可能在小伟身上，可翻了一下只找到一把储物柜的钥匙，但她并没有想到，原来这把钥匙是小伟从杀人狂那里偷来的。杀人狂因为怕自己的事情败露，便杀了<span class="GramE">小伟想取回</span>钥匙，但杀人狂在拿走钥匙时却疏忽了，他的钥匙是<span lang="EN-US">89</span>号的，而小伟的是<span lang="EN-US">68</span>号，杀人狂错拿了小伟的钥匙。当依<span class="GramE">琳打开</span>杀人狂的柜子时便发现了杀人狂之前作案时的血手套。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">18.</span><span lang="EN-US" style="font-size:32.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>一天清晨，一个拾荒者在垃圾筒旁边发现了一具仰卧着的尸体。接到报警后，警察很快赶到现场。在观察后，发现被害人身中两发子弹：小腹一发，额头一发，两发都是击中要害。现场并没留下十分有用的线索，于是就把尸体运回去，进行解剖。奇怪的是，从尸体上取出了两发属于不同枪的子弹。也就是说有人用两把不同的枪或两个不同的人打死了被害人。接下来的事不叙述了，因为与问题没有关系。现在问：到底被害者先中的<span class="GramE">是哪发子弹</span>？为什么？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A.</span>额头<span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>B.</span>小腹</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">A</span>因为如果先击中小腹，死者会蜷缩身体，就不可能集中额头了</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">19.</span><span lang="EN-US" style='font-size:36.0pt;font-family:"微软雅黑",sans-serif;mso-fareast-font-family:&#10;等线;mso-fareast-theme-font:minor-fareast;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt'> </span>有一个人能用三个烟蒂做成一支香烟。有一天晚上，香烟抽完了，但烟灰缸里有<span lang="EN-US">7</span>个烟蒂，于是他跟往常一样，用烟蒂来做香烟，请问他可以做成几支香烟<span lang="EN-US">?</span></p>
+
+<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;&#10;mso-layout-grid-align:none;text-autospace:none">答：<span lang="EN-US" style='font-size:9.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:Helvetica;&#10;color:#262626;mso-themecolor:text1;mso-themetint:217;mso-font-kerning:0pt'>3</span><span style='font-size:9.0pt;font-family:"微软雅黑",sans-serif;mso-bidi-font-family:Helvetica;&#10;color:#262626;mso-themecolor:text1;mso-themetint:217;mso-font-kerning:0pt'>支。<span lang="EN-US">7</span>个烟蒂中的<span lang="EN-US">6</span>个可以做成<span lang="EN-US">2</span>支香烟，还剩下一个烟蒂<span lang="EN-US">; </span>做成的<span lang="EN-US">2</span>支香烟抽完变成<span lang="EN-US">2</span>个烟<span lang="EN-US"><o:p></o:p></span></span></p>
+
+<p class="MsoNormal"><span style='font-size:9.0pt;font-family:"微软雅黑",sans-serif;&#10;mso-bidi-font-family:Helvetica;color:#262626;mso-themecolor:text1;mso-themetint:&#10;217;mso-font-kerning:0pt'>蒂，于是，加上原来的那一个，一共有<span lang="EN-US">3</span>个烟蒂，又可以做成另<span lang="EN-US">1</span>支香烟。</span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">20.</span><span lang="EN-US" style="font-size:24.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>小明的爸爸大明是一个狂热的业余古玩爱好者，并且有一群志同道合的朋友。有一天大明花高价买到了一件汉朝白瓷，买回家后爱不释手，迫不及待地叫来了他的那些朋友们想向他们炫耀，人还未来得及坐下大明便忍不住开始吹嘘起来<span lang="EN-US">:“</span>这可是正宗的汉朝白瓷，看<span lang="EN-US">!</span>底下还有款识呢<span lang="EN-US">!”&nbsp;</span>朋友们拿起瓷器观赏，只见瓷器底下刻着“西汉孝景御制”，他们惊叹不已，都羡慕大明能够搞到这样一件宝贝。小<span class="GramE">明当时</span>正好在场，出于对古玩的好奇，他也拿起瓷器观赏起来，突然小明大声地说<span lang="EN-US">:“</span>爸，这件瓷器是假的<span lang="EN-US">!”&nbsp;</span>朋友们大惊，纷纷看向大明，大明感觉脸上挂不住，立马喝斥<span lang="EN-US">:“</span>小孩子懂什<span lang="EN-US"><br>
+</span>么<span lang="EN-US">!</span>一边玩去”。<span lang="EN-US"><br>
+</span>那么问题来了，这件瓷器到底是真是假<span lang="EN-US">?<br>
+A.</span>真的<span lang="EN-US"><br>
+B</span>、假的 </p>
+
+<p class="MsoNormal">答：<span lang="EN-US" style="font-family:宋体;mso-bidi-font-family:&#10;宋体;mso-font-kerning:0pt;mso-bidi-language:AR;mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="图片_x0020_24" o:spid="_x0000_i1027" type="#_x0000_t75" alt="IMG_256"
+ style='width:366.75pt;height:57pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image019.png" o:title="IMG_256"/>
+</v:shape><![endif]--><!--[if !vml]--><img width="489" height="76" alt="IMG_256" src="2017推理竞赛习题详解.files/image020.jpg" v:shapes="图片_x0020_24"><!--[endif]--></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">21.</span><span lang="EN-US" style='font-size:36.0pt;font-family:"微软雅黑",sans-serif;mso-fareast-font-family:&#10;等线;mso-fareast-theme-font:minor-fareast;color:white;mso-themecolor:background1;&#10;mso-font-kerning:12.0pt'> </span>小丽买了一双漂亮的鞋子，她的同学都没有见过这双鞋了，于是大家就猜，小红说：“你买的鞋不会是红色的。”小彩说：“你买的鞋子不是黄的就是黑的。”小玲说：“你买的鞋子一定是黑色的。”这三个人的看法至少有一种是正确的，至少有一种是错误的。请问，小丽的鞋子到底是什么颜色的？。</p>
+
+<p class="MsoNormal">答：假设小丽的鞋子是黑色的，那么三种看法都是正确的，不符合题意；假设是黄色的，前两种看法是正确的，第三种看法是错误的；假设是红色的，那么三句话都是错误的。因此，小丽的裙子是黄色的。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">22.</span><span lang="EN-US" style="font-size:24.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>这是一幅现场图：乍看好像是死者把手枪固定在桌上，然后拉动绑在扳机上的绳子中弹而亡。但刑警看完现场后说：“这不是自杀，而是他杀。”</p>
+
+<p class="MsoNormal">请问，杀人凶手布置的自杀现场有什么漏洞呢？</p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="_x0000_i1026" type="#_x0000_t75" style='width:134.25pt;height:116.25pt;
+ visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image021.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="179" height="155" src="2017推理竞赛习题详解.files/image022.jpg" v:shapes="_x0000_i1026"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：绳子应该<span class="GramE">绑</span>在于弹射出相反的方向</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">23.</span><span lang="EN-US" style="font-size:20.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>你是一个小偷。</p>
+
+<p class="MsoNormal">晚上八点，你登上一辆没有多少人乘坐的公交车。你面前座位上坐着一名彪形大汉，他正把头倚在<span class="GramE">车窗上眯着眼</span>休息，他上衣兜里的手机在你眼前熠熠生辉。</p>
+
+<p class="MsoNormal">你的目标是偷取这位壮汉的手机。</p>
+
+<p class="MsoNormal">不过，他的手机连着耳机线，此时壮汉<span class="GramE">正在听单曲</span>循环播放的鲍勃·迪伦的歌<span lang="EN-US">.</span>壮汉虽然眼睛是闭的，但并没有睡着，歌曲如果播放中断壮汉马上就会发觉，即使歌曲播放完，<span lang="EN-US">10</span>秒钟内听不到歌曲壮汉也会察觉，如果不假思索的直接拔掉耳机，不但任务会失败，你还得肿着脸满地找牙。</p>
+
+<p class="MsoNormal">请问，你究竟该怎么做才能顺利取得手机，完成任务？</p>
+
+<p class="MsoNormal">以下是你通过观察得到的情况：</p>
+
+<p class="MsoNormal">（<span lang="EN-US">1</span>） 天色很暗</p>
+
+<p class="MsoNormal">（<span lang="EN-US">2</span>） 你完全可以毫不费力的偷出壮汉的手机，甚至可以查看手机内容，但不能停止或切换音乐的播放，壮汉的耳朵很灵敏。</p>
+
+<p class="MsoNormal">（<span lang="EN-US">3</span>） 虽然他耳朵灵敏，但耳机中音乐声很大，壮汉除了音乐外，听不到车内的任何响动，而且他是闭着眼的，看不到你的任何动作。</p>
+
+<p class="MsoNormal">（<span lang="EN-US">4</span>） 公交车每<span lang="EN-US">5</span>分钟停<span class="GramE">一</span>次站，停靠<span lang="EN-US">4</span>秒，公交车全程<span lang="EN-US">60</span>分钟，你的偷窃必须在此时间段内进行。</p>
+
+<p class="MsoNormal">（<span lang="EN-US">5</span>） 你可以利用一些常规工具，但不能使用超现实的工具，也不能用刀或枪威胁。记住你是偷窃，不是打劫。</p>
+
+<p class="MsoNormal">答：利用胶带。先把壮汉的手机掏出来贴上两层胶带，再把自己座位边的窗户打开，然后直接用胶带把手机粘到车窗外壁上，这样就形成了人在车内手机在车外的情况了。等公交车进站的时候，果断下车，迅速跑到贴手机的车窗外，等车子一启动，拔掉耳机摘下手机，飞奔。等壮汉反应过来，我早就跑远了，而且他也<span class="GramE">不会第</span>一时间意识到手机是车外的人偷走的，更何况天黑，他怎么也无力回天了。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">24.</span><span lang="EN-US" style="font-size:32.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>接到绑匪的电话，按警方的指示，爸爸要求绑匪拍一张<span lang="EN-US">7</span>岁双胞胎拿着当天报纸的照片给他。绑匪拒绝了，不过寄来了一段录音：“爸爸妈妈，今天是<span lang="EN-US">2012</span>年<span lang="EN-US">2</span>月<span lang="EN-US">5</span>日，我们现在很安全，叔叔对我们很好，还对我们笑，和姐姐玩扑克，和我下棋。希望爸爸妈妈尽早让我们回去。”
+如果你是警察，应该告诉父母：<span lang="EN-US"><br>
+A</span>、“赶紧给绑匪钱，否则绑匪会撕票的。”<span lang="EN-US"><br>
+B</span>、“不要给绑匪钱，就算给了钱绑匪也会撕票的。”</p>
+
+<p class="MsoNormal">答：绑匪了解双胞胎的习惯，说明是熟人作案。女<span lang="EN-US">) L</span>已经见过绑匪的脸，绑匪得手后一定会将人质杀害。他为什么要说具体时间呢<span lang="EN-US">? </span>很有可能已经撕票了，因为不拍照给录音，这<span class="GramE">是之前</span>逼着录的，录音中“对我们笑”透露出歹徒似乎不是蒙面的，知道个自的喜好说明绑匪跟他们很熟，既然如此就更会撕票了。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">25.</span><span lang="EN-US" style="font-size:24.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>有一位著名的心理 学家兼精神病医生，他能够运用精神分析学说破案。一天，维也纳警察局的警长布利尔请他去聊天，正巧遇到一起案件。情况是这样的：<span lang="EN-US">5</span>天前，郊外一户人家的漂亮女人被杀，现场没有凶手遗失的东西，只是在大门口捡到一支才吸了一两口的香烟。现在，有两个人值得怀疑：一个是被害者的情人，音乐学校的学生。死者生前常常将此人带回家中。最近，被害人与他经常发生争吵。另一嫌疑人是那一地区的缝纫机推销员。此人曾花言巧语引诱死者，但遭拒绝。这两人都有杀人嫌疑，但都缺少有力证据。布利尔警长正准备做唇纹对比。这位心理
+学家说<span lang="EN-US">:"</span>即使不用这样，也可以判明谁是杀人犯！“那么，凶犯是谁呢？</p>
+
+<p class="MsoNormal"><span lang="EN-US"><br>
+A</span>、被害者的情人<span lang="EN-US">B</span>、缝纫机推销员</p>
+
+<p class="MsoNormal">答：推销员。进门前把烟灭了是推销员的职业习惯。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">26.</span><span lang="EN-US" style="font-size:32.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>饭店的餐桌上有四个杯子，每个杯子上写着一句话。</p>
+
+<p class="MsoNormal">　　第<span lang="EN-US">1</span>个杯子：每个杯子里都有水果糖。</p>
+
+<p class="MsoNormal">　　第<span lang="EN-US">2</span>个杯子：我的里面有苹果。</p>
+
+<p class="MsoNormal">　　第<span lang="EN-US">3</span>个杯子：我的里面没有巧克力。</p>
+
+<p class="MsoNormal">　　第<span lang="EN-US">4</span>个杯子：有的杯子里没有水果糖。</p>
+
+<p class="MsoNormal">　　以上所述，如果有一句话是真的，那么以下哪种说法为真？</p>
+
+<p class="MsoNormal">　　<span lang="EN-US">A</span>．每个杯子中都有水果糖。</p>
+
+<p class="MsoNormal">　　<span lang="EN-US">B</span>．每个杯子中都没有水果糖。</p>
+
+<p class="MsoNormal">　　<span lang="EN-US">C</span>．每个杯子里都没有苹果。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span>D</span>．第<span lang="EN-US">3</span>个杯子里有巧克力。</p>
+
+<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;&#10;mso-layout-grid-align:none;text-autospace:none">答：<span lang="EN-US">D</span></p>
+
+<p class="MsoNormal">由题目得，第一和第四个杯子一定有句真话，因为这两句话是矛盾的。</p>
+
+<p class="MsoNormal">假设第一个杯子是真话，第二个杯子就是假话，第三个杯子是真话，有<span lang="EN-US">2</span>句真话矛盾。</p>
+
+<p class="MsoNormal">所以第四个杯子说的是真话，其他三个杯子都是假话。<span lang="EN-US">A</span>排除。</p>
+
+<p class="MsoNormal"><span lang="EN-US">B</span>也排除，因为有些杯子没有糖，有些杯子是有的，例如，第一个杯子有糖，第二个有糖，第三个有巧克力，第四个有苹果。由此可以看出，<span lang="EN-US">C</span>也不对。</p>
+
+<p class="MsoNormal">只有<span lang="EN-US">D</span>是真的，如果第三个杯子没有巧克力，那么就有<span lang="EN-US">2</span>句话是真的了。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">27.</span><span lang="EN-US" style="font-size:32.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>在一次地理考试结束后，有五个同学看了看彼此五个选择题的答案，其中：</p>
+
+<p class="MsoNormal">同学甲：第三题是<span lang="EN-US">A</span>，第二题是<span lang="EN-US">C</span>。</p>
+
+<p class="MsoNormal">同学乙：第四题是<span lang="EN-US">D</span>，第二题是<span lang="EN-US">E</span>。</p>
+
+<p class="MsoNormal">同学丙：第一题是<span lang="EN-US">D</span>，第五题是<span lang="EN-US">B</span>。</p>
+
+<p class="MsoNormal">同学丁：第四题是<span lang="EN-US">B</span>，第三题是<span lang="EN-US">E</span>。</p>
+
+<p class="MsoNormal">同学戊：第二题是<span lang="EN-US">A</span>，第五题是<span lang="EN-US">C</span>。</p>
+
+<p class="MsoNormal">结果他们各答对了一个答案。根据这个条件猜猜哪个选项正确？</p>
+
+<p class="MsoNormal"><span lang="EN-US">A</span>．第一题是<span lang="EN-US">D</span>，第二题是<span lang="EN-US">A</span>；</p>
+
+<p class="MsoNormal"><span lang="EN-US">B</span>．第二题是<span lang="EN-US">E</span>，第三题是<span lang="EN-US">B</span>；</p>
+
+<p class="MsoNormal"><span lang="EN-US">C</span>．第三题是<span lang="EN-US">A</span>，第四题是<span lang="EN-US">B</span>；</p>
+
+<p class="MsoNormal">答：<span lang="EN-US">C </span>假设同学甲<span lang="EN-US">"</span>第三题是<span lang="EN-US">A"</span>的说法正确，那么第二题的答案就不是<span lang="EN-US">C</span>。同时，第二题的答案也不是<span lang="EN-US">A</span>，第五题的答案是<span lang="EN-US">C</span>，再根据同学丙的答案知道第一题答案是<span lang="EN-US">D</span>，然后根据同学乙的答案知道第二题的答案是<span lang="EN-US">E</span>，最后根据同学丁的答案知道第四题的答案是<span lang="EN-US">B</span>。所以以上四个选项第三个选项正确。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">28.</span><span lang="EN-US" style="font-size:20.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>我和小刚、小明是好朋友。小刚是一个医学博士，我和小明则是整天游手好闲的小混混。<span lang="EN-US"><br>
+</span>一天我和小刚、小明约好了在某地见面吃饭。但我和小刚都到了之后发现小明迟迟没有来，打电话也不通，于是决定去小明家看看。<span lang="EN-US"><br>
+</span>此时已是晚上，我们走到小明的家门口敲门却没有人回应，只好强行将门撞开。<span lang="EN-US"><br>
+</span>家里一片漆黑，我们打开灯，小刚要我去<span lang="EN-US">2</span>楼，自己去<span lang="EN-US">1</span>楼的厕所找小明。<span lang="EN-US"><br>
+</span>我看着小刚进了厕所，厕所也是黑漆漆的，然后自己也走上楼梯去<span lang="EN-US">2</span>楼。<span lang="EN-US"><br>
+15</span>秒左右，我走到了<span lang="EN-US">2</span>楼，便听见了小刚的叫声。<span lang="EN-US"><br>
+</span>我也马上赶到了厕所，发现小明的尸体正躺在浴缸里，在灯光的照耀下能清晰地看到浴缸里被鲜血染红的水。<span lang="EN-US"><br>
+</span>我们马上报了警，警察调查后，说死者是一刀割断左手动脉失血过多死亡，并且在小<span class="GramE">明衣服</span>口袋了找到了这栋房间的钥匙。而我们进房子的时候，这栋房子的门是被反锁的，又经过警方调查，这栋房子的门窗都是从里面锁上的，也就是说这间房子是一间密室。<span lang="EN-US"><br>
+</span>请根据现有线索，客观的判断出小明死于谁手。<span lang="EN-US"><br>
+A</span>、文中的“我”<span lang="EN-US"><br>
+B</span>、小刚<span lang="EN-US"><br>
+C</span>、小明自杀<span lang="EN-US"><br>
+D</span>、其他人物</p>
+
+<p class="MsoNormal">答：小刚是凶手。</p>
+
+<p class="MsoNormal">线索<span lang="EN-US">1: </span>死者小<span lang="EN-US">\</span>明是被一刀精准地割破动脉而身亡，有此能力者便是身为医学博士的小<span lang="EN-US">\</span>刚。</p>
+
+<p class="MsoNormal">线索<span lang="EN-US">2 :</span>我看着小刚进了厕所，他却在我走到<span lang="EN-US">2</span>楼的时候才发现尸体尖叫，其中有很大一部分时</p>
+
+<p class="MsoNormal">间可以让小刚将杀死小明后拿到的钥匙放回小明的口袋里，以及其它的一些动作。</p>
+
+<p class="MsoNormal">线索<span lang="EN-US">3: </span>小<span lang="EN-US">\</span>刚一开始就去厕所找小<span lang="EN-US">\</span>明，正常人在去别人家找人一定是先去他的房间，他却直接</p>
+
+<p class="MsoNormal">去厕所，并且发现了尸体，说明他一开始就知道尸体在哪并想要趁第一时间到达那</p>
+
+<p class="MsoNormal">里，成为</p>
+
+<p class="MsoNormal">第一个并且是一个人发现尸体的人。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">29.</span><span lang="EN-US" style="font-size:24.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>当酒吧的服务员送走客人时，发现沙发上有一人死亡，他是律师张某。经过现场侦查知道，他是喝了被人偷偷放在酒里的毒药毒死的。和他一起喝酒的其他三个人是王某、李某、赵某，他们分别坐在一张三人沙发和两张单人沙发上<span lang="EN-US">(</span>如图<span lang="EN-US">A</span>、<span lang="EN-US">B</span>、<span lang="EN-US">C</span>、<span lang="EN-US">D</span>分别为王、李、赵、张的位置<span lang="EN-US">)</span>。案发前，上述四人都没有离开过自己的座位，也没有其他人进入客厅，只有某服务员曾进来给张某和赵某分别倒过酒，但该服务员肯定不是凶手。你能根据上述线索判断出凶手是谁吗<span lang="EN-US">?</span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shape
+ id="图片_x0020_4" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:157.5pt;
+ height:108pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="2017推理竞赛习题详解.files/image023.jpg" o:title=""/>
+</v:shape><![endif]--><!--[if !vml]--><img width="210" height="144" src="2017推理竞赛习题详解.files/image024.jpg" v:shapes="图片_x0020_4"><!--[endif]--></span></p>
+
+<p class="MsoNormal">答：服务员曾给张某赵某倒过酒，因此最<span class="GramE">靠近张菜的</span>赵某向他下了毒药。<span class="GramE">各人所座的</span>座位分别<span lang="EN-US">B</span>李某，<span lang="EN-US">A</span>王某，<span lang="EN-US">C</span>赵某，<span lang="EN-US">D</span>张某。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">30.</span><span lang="EN-US" style="font-size:36.0pt;mso-hansi-font-family:微软雅黑;color:white;mso-themecolor:&#10;background1;mso-font-kerning:12.0pt"> </span>一个在运动中骨折的患者康复出院了，家里庆祝的时候，患者的哥哥说今天的可乐味道有点怪，患者的父亲和母亲喝了后纷纷表示可乐味道不对，但患者喝后坚称味道正常。患者在当天晚上洗澡时身亡，为什么？</p>
+
+<p class="MsoNormal">答：他在医院接受治疗时因为错用药物而丧失了部分嗅觉和味觉，所以没能尝出可乐中的异常味道，洗澡时也没有闻到热水器中煤气泄漏的气味。</p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-tab-count:12">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp; </span><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US" style="font-size:14.0pt;mso-bidi-font-size:11.0pt"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;</span><b style="mso-bidi-font-weight:normal"><span style="mso-spacerun:yes">&nbsp;</span>Signal</b></span><b style="mso-bidi-font-weight:&#10;normal"><span style="font-size:14.0pt;mso-bidi-font-size:11.0pt">推理社<span lang="EN-US"><o:p></o:p></span></span></b></p>
+
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:14.0pt;mso-bidi-font-size:11.0pt"><span style="mso-tab-count:&#10;12">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2017</span></b><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:&#10;11.0pt">年<span lang="EN-US">11</span>月<span lang="EN-US"><o:p></o:p></span></span></b></p>
+
+</div>
+
+
+
+
+</body></html>
